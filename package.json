@@ -1,0 +1,45 @@
+{
+  "name": "sprint",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "nodemon index.js"
+  },
+  "dependencies": {
+    "arr-diff": "^4.0.0",
+    "arr-flatten": "^1.1.0",
+    "arr-union": "^3.1.0",
+    "array-each": "^1.0.1",
+    "array-slice": "^1.1.0",
+    "array-unique": "^0.3.2",
+    "assign-symbols": "^1.0.0",
+    "atob": "^2.1.2",
+    "component-emitter": "^1.3.0",
+    "copy-descriptor": "^0.1.1",
+    "decode-uri-component": "^0.2.0",
+    "detect-file": "^1.0.0",
+    "express": "^4.17.1",
+    "extend": "^3.0.2",
+    "flagged-respawn": "^1.0.1",
+    "for-in": "^1.0.2",
+    "for-own": "^1.0.0",
+    "get-value": "^2.0.6",
+    "has-values": "^1.0.0",
+    "helmet": "^3.21.2",
+    "ini": "^1.3.5",
+    "is-accessor-descriptor": "^0.1.6",
+    "is-buffer": "^1.1.6",
+    "is-data-descriptor": "^0.1.4",
+    "is-descriptor": "^0.1.6",
+    "is-extendable": "^0.1.1",
+    "is-extglob": "^2.1.1",
+    "is-glob": "^4.0.1",
+    "is-number": "^3.0.0",
+    "knex": "^0.20.7",
+    "sqlite3": "^4.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.1"
+  }
+}
